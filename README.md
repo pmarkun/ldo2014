@@ -10,10 +10,12 @@ A mudança, neste ano, é que o processo de elaboração do PLDO deixa de ser um
 
 ## QUEM COMPÕE O GRUPO  DE DEBATES "LDO 2014"?
 Para colaborar na elaboração das propostas a serem apresentadas pela SGPR foi formado um grupo virtual (vocês!) para o qual foram convidados:
+
 * representantes de conselhos nacionais;
 * representantes de entidades da sociedade civil que:
-    * participaram dos debates com a SOF sobre a Programação Orçamentária 2013;
-    * participaram do III Fórum Interconselhos;
+	* participaram dos debates com a SOF sobre a Programação Orçamentária 2013;
+	* participaram do III Fórum Interconselhos;
+
 Infelizmente as restrições de prazo e de capacidade operacional não permitem que este seja um processo público aberto a qualquer interessado. Esperamos que nos próximos possamos realizar essa participação para um público mais ampliado e sem a necessidade de intermediação da SGPR. Contamos com vocês para bem representarem os interesses da sociedade como um todo.
 
 ## QUEM DECIDE SOBRE AS PROPOSTAS APRESENTADAS?
@@ -24,13 +26,14 @@ Essa escolha será feita pela SGPR, com base nos debates do grupo e naqueles cri
 
 ## Como apresentar uma proposta
 Aí vão algumas dicas de como apresentar uma proposta:
+
 1. A LDO 2013 É A BASE DE PARTIDA - o documento-base no qual vamos nos basear para apresentação de propostas é a LDO vigente. Sua leitura é fundamental: http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12708.htm
 2. O DISPOSITIVO É A UNIDADE DE ANÁLISE - cada proposta deve estar relacionada a um dispositivo da LDO. Podemos considerar como dispositivo um artigo, um parágrafo, inciso ou alínea que se pretenda alterar. É possível a sugestão de inclusão de dispositivos novos, mas sempre indicando em que parte e que posição da LDO deve ser acrescentado. Uma observação importante é que o SIOP não permite o encaminhamento de emendas divergentes sobre o mesmo dispositivo.
 3. A PROPOSTA DEVE ESPECIFICAR O TIPO DE EMENDA - assim como no processo legislativo, há vários de tipos de emenda possíveis, que devem ser indicadas:
-    1. emendas aditivas - criam um dispositivo novo, antes de um outro dispositivo existente;
-    2. emendas
-    3. emendas modificativas - sugerem uma nova redação a um dispositivo existente (não afeta a estrutura dos dispositivos subordinados);
-    4. emendas substitutivas - modificam não apenas a redação de um dispositivo, mas toda a estrutura de dispositivos a ele subordinados.
+	* emendas aditivas - criam um dispositivo novo, antes de um outro dispositivo existente;
+	* emendas
+	* emendas modificativas - sugerem uma nova redação a um dispositivo existente (não afeta a estrutura dos dispositivos subordinados);
+	* emendas substitutivas - modificam não apenas a redação de um dispositivo, mas toda a estrutura de dispositivos a ele subordinados.
 4. A REDAÇÃO É IMPORTANTE - cada proposta deve apresentar de forma precisa a nova redação desejada para o dispositivo.
 5. A JUSTIFICATIVA É AINDA MAIS IMPORTANTE - cada proposta deve ser justificada e com base nessa justificativa será apoiada, contestada e avaliada. Aqui, para efeitos de debate, podemos apresentar qualquer justificativa, mas no momento de inclusão no SIOP há um limite de tamanho que precisa ser respeitado.
 6. A FUNDAMENTAÇÃO É A ALMA DA JUSTIFICATIVA - não dá para justificar uma proposta apenas com base na opinião de quem propõe. Fundamentar em outros atos existentes é uma boa forma de fortalecer sua justificativa. Para isso, é possível indicar como fundamentação artigos da Constituição Federal, de leis, decretos e outros atos normativos nacionais ou internacionais, resoluções de conselhos e conferências nacionais, assim como pactos, compromissos, planos, políticas e programas de governo. Fazer a fundamentação com base em elementos do PPA é outra ótima estratégia.
@@ -39,21 +42,33 @@ Aí vão algumas dicas de como apresentar uma proposta:
 ## Exemplo de proposta
 
 FULANO DE TAL integra o grupo de discussão sobre a LDO 2014 como representante do MOVIMENTO SOCIAL X, que luta pelos direitos do SEGMENTO SOCIAL Y. Seu interesse é garantir o máximo de recursos orçamentários para as políticas voltadas ao SEGMENTO SOCIAL Y, que considera prioritário. Nesse contexto, sua primeira intenção seria tratar de ações orçamentárias e valores, mas logo percebeu após alguns comentários dos colegas que a LDO não seria o instrumento adequado para isso. Então, dedicou algum tempo para estudar a LDO 2013 e pensou em outra estratégia.
+
 Sua primeira alternativa seria acrescentar as políticas para o SEGMENTO SOCIAL Y nas metas e prioridades da administração pública federal. Seria uma emenda aditiva ao Anexo VII da LDO. Consultando os documentos apresentados pela SGPR, verificou que em relação a esse tema já havia uma posição governamental firmada, explicitada nos vetos à Lei nº 12708/2012, que não contemplava seu interesse. Considerou que seria pouco provável obter aprovação de sua proposta neste âmbito.
+
 Mas FULANO não desistiu. Conhecendo a redação do art. 165, §2º, da Constituição Federal, percebeu que entre outras coisas a LDO trata da "política de aplicação das agências financeiras oficiais de fomento". No texto da LDO 2013, procurou identificar os dispositivos que tratavam deste assunto e localizou os artigos 88 e seguintes. Mais precisamente, ficou interessado no inciso I do art. 88, que trata das prioridades para a Caixa Econômica Federal e menciona a redução do déficit habitacional e destaca alguns públicos prioritários. Decidiu, então, defender a inclusão do SEGMENTO SOCIAL Y entre estes beneficiários destacados.
+
 Em primeiro lugar, identificou o DISPOSITIVO, que seria o Art. 88, I, da LDO 2013. O segundo passo seria identificar o tipo de emenda. Como ele não queria a supressão do dispositivo nem a inclusão de um novo, optou por uma EMENDA MODIFICATIVA, já que desejava apenas alterar a redação para incluir algumas palavras a mais. Após isso, escreveu a nova REDAÇÃO do dispositivo, copiando todo o texto anterior e acrescentando apenas, na lista de beneficiários, a expressão "...o segmento social y, ... ". Feito isso, redigiu um parágrafo de JUSTIFICATIVA e lembrou que era importante a FUNDAMENTAÇÃO. Incluiu, então, na justificativa a referência a um artigo genérico da Constituição Federal que mencionava aquele segmento. Por fim, enviou uma mensagem nova ao grupo, identificando adequadamente sua proposta no campo assunto. Os demais participantes receberam a seguinte mensagem:
 
 Data:27/02/2013 8:00
+
 De: FULANO DE TAL
+
 Para: ldo-2014@googlegroups.com
+
 Assunto: [LDO 2014] Art. 88 I - modificativa
+
 Dispositivo original: Art. 88. (...) I - para a Caixa Econômica Federal, redução do déficit habitacional e melhoria das condições de vida das populações em situação de pobreza, especialmente quando beneficiam idosos, pessoas com deficiência, povos e comunidades tradicionais, mulheres chefes de família e militares das Forças Armadas que moram em áreas consideradas de risco, via financiamentos e projetos habitacionais de interesse social, projetos de investimentos em saneamento básico e desenvolvimento da infraestrutura urbana e rural;
+
 Nova redação: Art. 88. (...) I - para a Caixa Econômica Federal, redução do déficit habitacional e melhoria das condições de vida das populações em situação de pobreza, especialmente quando beneficiam o segmento social y, idosos, pessoas com deficiência, povos e comunidades tradicionais, mulheres chefes de família e militares das Forças Armadas que moram em áreas consideradas de risco, via financiamentos e projetos habitacionais de interesse social, projetos de investimentos em saneamento básico e desenvolvimento da infraestrutura urbana e rural;
+
 Justificativa: É importante atender ao SEGMENTO SOCIAL Y por conta da sua extrema vulnerabilidade que o diferencia dos demais, com fundamentação na Constituição Federal no artigo X.
  
 Os colegas passaram a comentar sua proposta. Um se manifestou de forma contrária, com todo respeito e sutileza, mas a maioria apoiou a iniciativa. Aliás, não só apoiou como imitou. Vários participantes sugeriram incluir nesse mesmo dispositivo como beneficiários outros grupos que representavam. Como essas sugestões diziam respeito ao mesmo dispositivo, não criaram uma nova mensagem, mas escreveram respostas à mensagem original de FULANO. Assim, com dois dias de debate, a mensagem original contava com mais de vinte respostas apoiando a iniciativa e pedindo para incluir também na mesma condição o SEGMENTO SOCIAL Z, o SEGMENTO SOCIAL W, o SEGMENTO SOCIAL K e vários outros.
+
 A SGPR se manifestou demonstrando preocupação com a situação. Além da justificativa insuficiente, uma emenda modificativa àquele artigo acrescentando tantos beneficiários e praticamente dobrando o tamanho do texto original seria inviável de ser defendida. Sugeriu manter apenas a proposta original ou abandonar a ideia de modificar aquele dispositivo. Essa manifestação não foi bem vista pelos participantes e o dissenso se formou, o que indicava que a proposta não seria selecionada.
+
 Foi então que FULANA DE TAL, respondendo à mesma mensagem original de FULANO, deu uma ideia que poderia solucionar o impasse. Se a discordância da SGPR era apenas em relação ao texto e não ao conteúdo apresentado, poderia haver uma redação alternativa que contemplasse todas as sugestões, sem estender demais o texto. Então, propôs que fosse incluído naquele dispositivo apenas a expressão "... POPULAÇÃO A...", que automaticamente contemplava o SEGMENTO SOCIAL X, o SEGMENTO SOCIAL Z e o SEGMENTO SOCIAL W. Restava, entre outros, o SEGMENTO SOCIAL K que não foi contemplado e reclamou. A SGPR concordou com redação alternativa e sugeriu que, para fortalecer a justificativa, fosse mencionada na fundamentação as resoluções de várias conferências e algumas metas do PPA que mencionavam especificamente o déficit habitacional da POPULAÇÃO A.
+
 Finalmente, com a ajuda de vários participantes, a proposta foi redigida no formato exigido pelo SIOP e selecionada pela SGPR para ser apresentada como contribuição à LDO.
 
 ## RESUMO - PASSO-A-PASSO
