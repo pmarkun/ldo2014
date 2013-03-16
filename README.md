@@ -82,3 +82,22 @@ Finalmente, com a ajuda de vários participantes, a proposta foi redigida no for
 8. Fundamentar a justificativa;
 9. Se alguém já apresentou proposta para aquele mesmo dispositivo, responder à mensagem dele; se ninguém propôs, enviar nova mensagem identificando o dispositivo e o tipo de emenda no campo assunto;
 10. Participar das discussões de forma aberta e colaborativa.
+
+## Referências
+
+* [Secretaria do Orçamento Federal (Portal Orçamento Federal)](http://www.orcamentofederal.gov.br/orcamentos-anuais)
+* [Ministério do Planejamento, Orçamento e Gestão](http://www.planejamento.gov.br/secretaria.asp?cat=51&sub=129&sec=8)
+* [Orçamento Brasil, na Câmara dos Deputados](http://www2.camara.leg.br/atividade-legislativa/orcamentobrasil/ldo/ldo2013)
+* [Portal Orçamento do Senado Federal](http://www9.senado.gov.br/portal/page/portal/orcamento_senado/LDO/Elaboracao:AL)
+  
+Em todas essas bases há um conjunto amplo de informações sobre a LDO e sua tramitação.
+ 
+Em especial destaco para subsidiar nossos debates dois comparativos:
+* [Comparativo LDO 2011-2012-2013 – Senado Federal](http://www.senado.gov.br/Relatorios_SGM/consolidacoestematicas/02_Congresso%20Nacional/01_LDO%20-%20Quadros%20comparativos/006_Quadro%20Comparativo%20LDO%202011-2013.pdf)
+* [Comparativo LDO 2012 – PLDO 2013 – LDO 2013 – Portal Orçamento Federal](http://www.orcamentofederal.gov.br/orcamentos-anuais/orcamento-2013-1/copy_of_pldo/comparativo_LDO.pdf/at_download/file)
+ 
+Nesses estudos comparativos é possível perceber como há disposições que se repetem com muita frequência de um ano a outro. Perceber esses padrões é importante para que possamos ter uma noção das matérias que são próprias da LDO e relativamente 
+
+**Outras contribuições**
+* [INESC NT 166 - Análise do PLDO 2011](http://www.inesc.org.br/biblioteca/publicacoes/notas-tecnicas/nts-2010/NT%20%20166%20%20PLDO%202011.pdf/view)
+* [CFEMEA - Análise do Projeto de Lei de Diretrizes Orçamentárias para 2010 sob uma perspectiva de promoção da igualdade](http://www.cfemea.org.br/index.php?option=com_jdownloads&Itemid=128&task=view.download&cid=16)
